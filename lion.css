@@ -1,0 +1,38 @@
+.container{
+    background-image: url(./img/fondlion.jpg);
+    background-size: 500px 500px;
+    transition: all 2s;
+}
+.triangle{
+    transform: translate(220px,238px) rotate(-90deg);
+    transition: all 2s;
+
+}
+.triangle2{
+    transform: translate(81px,206px) rotate(225deg);
+    transition: all 2s;
+}
+.triangle3{
+    transform:translate(108px, 140px) rotate(135deg);
+    transition: all 2s;
+}
+
+.triangle4{
+    transform:translate(25px, 29px) rotate(-45deg);
+    transition: all 2s;
+
+}
+.triangle5{
+    transform:translate(220px, 106px) rotate(-45deg);
+    transition: all 2s;
+
+}
+.carre{
+    transform:translate(-20px, 150px) rotate(45deg);
+    transition: all 2s;
+}
+.parallelogram{
+    transform:translate(340px, 187px) rotate(-110deg) skew(-45deg);
+    transition: all 2s;
+}
+
