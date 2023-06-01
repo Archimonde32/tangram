@@ -1,37 +1,33 @@
-.container{
-    background-image: url(./img/fondcanard.webp);
-    background-size: 500px 500px;
-    transition: all 2s;
-}
+
 .triangle{
-    transform:translate(250px, 55px) rotate(270deg);
+    transform:translate(300px, 105px) rotate(270deg);
     transition: all 2s;
 
 }
 .triangle2{
-    transform: translate(100px,270px) rotate(270deg);
+    transform: translate(150px,320px) rotate(270deg);
     transition: all 2s;
 }
 .triangle3{
-    transform:translate(163px, 151px) rotate(360deg);
+    transform:translate(214px, 201px) rotate(360deg);
     transition: all 2s;
 }
 
 .triangle4{
-    transform:translate(0px, 102px) rotate(90deg);
+    transform:translate(50px, 152px) rotate(90deg);
     transition: all 2s;
 
 }
 .triangle5{
-    transform:translate(73px, 157px) rotate(45deg);
+    transform:translate(123px, 207px) rotate(45deg);
     transition: all 2s;
 
 }
 .carre{
-    transform:translate(185px, 40px) rotate(44deg);
+    transform:translate(235px, 90px) rotate(44deg);
     transition: all 2s;
 }
 .parallelogram{
-    transform:translate(167px, 110px) rotate(94deg) skew(320deg);
+    transform:translate(218px, 160px) rotate(94deg) skew(320deg);
     transition: all 2s;
 }

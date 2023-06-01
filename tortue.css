@@ -1,38 +1,34 @@
-.container{
-    background-image: url(./img/fondtortue.avif);
-    background-size: 500px 500px;
-    transition: all 2s;
-}
+
 .triangle{
-    transform:translate(295px, 195px) rotate(180deg);
+    transform:translate(385px, 293px) rotate(180deg);
     transition: all 2s;
 
 
 }
 .triangle2{
-    transform: translate(68px,196px) rotate(360deg);
+    transform: translate(179px,297px) rotate(360deg);
     transition: all 2s;
 }
 .triangle3{
-    transform:translate(290px, 100px) rotate(360deg);
+    transform:translate(382px, 200px) rotate(360deg);
     transition: all 2s;
 }
 
 .triangle4{
-    transform:translate(198px, 35px) rotate(315deg);
+    transform:translate(292px, 135px) rotate(315deg);
     transition: all 2s;
 
 }
 .triangle5{
-    transform:translate(120px, 109px) rotate(135deg);
+    transform:translate(220px, 209px) rotate(135deg);
     transition: all 2s;
 
 }
 .carre{
-    transform:translate(-22px, 106px) rotate(90deg);
+    transform:translate(86px, 206px) rotate(90deg);
     transition: all 2s;
 }
 .parallelogram{
-    transform:translate(59px, 140px) rotate(-90deg) skew(-45deg);
+    transform:translate(163px, 240px) rotate(-90deg) skew(-45deg);
     transition: all 2s;
 }

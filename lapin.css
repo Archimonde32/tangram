@@ -1,8 +1,4 @@
-.container{
-    background-image: url(./img/fondlapin.avif);
-    background-size: 500px 500px;
-    transition: all 2s;
-}
+
 .triangle{
     transform:translate(61px, 333px) rotate(45deg);
     transition: all 2s;
